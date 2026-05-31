@@ -1,0 +1,21 @@
+---
+title: "Homepage"
+---
+
+# Brady Earley
+
+### Empirical Evidence | Public Law
+
+![](~/Desktop/Earley_Brady.jpg){width=250}
+
+My work focuses on:
+
+- Constitutional Law
+- Empirical Legal Studies
+
+## Current Projects
+
+## Links
+
+- [GitHub](https://github.com/bradyearley)
+- [LinkedIn](https://linkedin.com/in/brady-earley/)
