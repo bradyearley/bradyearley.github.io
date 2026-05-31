@@ -24,7 +24,7 @@ website:
       - href: code/index.qmd
         text: Code
 
-      - href: Earley CV 2026.docx
+      - href: cv.pdf
         text: CV
 
     right:
