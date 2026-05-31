@@ -1,8 +1,6 @@
 ---
-title: "Homepage"
+title: "Brady Earley"
 ---
-
-# Brady Earley
 
 ### Empirical Evidence | Public Law
 
