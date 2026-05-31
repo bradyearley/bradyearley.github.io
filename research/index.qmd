@@ -25,3 +25,64 @@ With this evidence of public accommodation markets, the second part of the metho
 In sum, this approach shows how judges and lawmakers can use market-based evidence of material harm and thereby avoid balancing dignitary interests. Moreover, this study further indicates government—especially local governments—can accommodate religious objectors while administering public accommodation protections for same-sex couples and countering stigma.
 
 [Link](https://onlinelibrary.wiley.com/doi/10.1111/jels.70013)
+
+### Religious Exemptions in Ancient China, Australian Journal of Law and Religion (January 2025)
+
+The issue of religious exemptions is a major feature in contemporary debates over religious freedom and equality rights. This article presents evidence of Confucianist religious exemptions in law dating back to 200 BCE in ancient China. Even with this large disparity in time, there are some surprising parallels between ancient and contemporary religious exemptions in law and the debates that have accompanied them. The article argues that religious exemptions — whether modern or ancient — run to the relationship between rights and responsibilities. It suggests modern approaches towards religious exemptions may profit from greater attention to concepts like human dignity that do not allow duties to be overshadowed by rights.
+
+[Link](https://ausjlr.com/wp-content/uploads/2025/01/Earley-Religious-Exemptions-in-Ancient-China-FINAL.pdf)
+
+### Responsible Religious Freedom: Factual Scrutiny in Free Exercise Doctrine, Journal of Law and Religion (September 2024)
+
+The state of the Free Exercise Clause in U.S. constitutional law is uncertain. With an opportunity in Fulton v. Philadelphia to clarify the vitality of the current standard from Employment Division v. Smith, the Supreme Court has declined to do so. The lasting impact of Smith has been to move away from directly requiring government justifications for infringing free exercise. Instead, courts now use neutrality and general applicability as heuristics for government justification. Yet, relying solely on neutrality and general applicability to proxy for government justification when infringing religious exercise distracts courts from conducting a fact-based inquiry.
+
+This article demonstrates how more scrutiny of the legislative facts in free exercise doctrine may serve as a viable alternative to Smith’s flawed approach for evaluating government justifications. The argument proceeds in two steps. Step one shows empirically how more factual scrutiny—that is, directly requiring the government to justify its actions with evidence—can benefit government and religious claimants.  Step two then discusses the normative advantages of a fact-intensive approach to constitutional scrutiny. During a moment of sharp division over religious freedom and other competing rights, factual scrutiny can be a powerful tool for handling free exercise challenges and promoting responsible religious freedom.
+
+[Link](https://www.cambridge.org/core/journals/journal-of-law-and-religion/article/responsible-religious-freedom-factual-scrutiny-in-free-exercise-doctrine/BA565A16C876E28E90099271916B5F71)
+
+### Religious Freedom “with Chinese Characteristics”, Chinese Journal of International Law (June 2024)
+
+China’s approach to religious freedom is unique. Heavy State regula-
+tion and the involvement of the Chinese Communist Party often in-
+vite external critique of Chinese religious freedom based on legal
+commitments outside of China. However, China’s rich legal tradi-
+tion and textual commitments to religious freedom suggest there is
+more to learn. Analyzing religious freedom in legal texts and in prac-
+tice from Chairman Mao Zedong to President Xi Jinping, this article
+offers a dialectic account of religious freedom with Chinese character-
+istics. Chinese text and practice regarding religious freedom suggest
+three enduring constitutional commitments: non-discrimination in
+religious belief, normalization of religious practices, and resistance
+to foreign religious influence. Each of these textual commitments
+correspond to the values found in Daoism, Legalism, and
+Confucianism—the pillars of traditional Chinese culture. With this
+understanding of China’s religious freedom approach, the article
+then offers three implications for strengthening China’s commitment
+to its own theory of religious freedom by (1) separating State and
+Party policy on religious registration, (2) removing cult designations
+from criminal law, and (3) accommodating non-traditional religious
+organizations to help address social issues.
+
+[Link](https://academic.oup.com/chinesejil/article-abstract/23/2/263/7700794?redirectedFrom=fulltext&login=false)
+
+### Sacred Ground: Enslaved African Americans and the US Religious Freedom Paradigm, 65 Journal of Church & State 331 (2023)
+
+In an effort to contribute additional sample and scope to the narrative of religious freedom in the United States, the first two sections of this article describe the religious freedom of enslaved persons through the practice of burial—a prominent spiritual obligation in many African religions not initially shared by White settlers. Section I provides the historical context for both African Indigenous and Christian beliefs toward death and how they initially interacted. Section II then traces burial practice of enslaved Black persons in the United States through sources from the late antebellum period. Section III reveals that failing to accommodate marginalized religious groups is actually incentivized under modern US Free Exercise jurisprudence, exemplified by Employment Division v. Smith and Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah. I conclude with a proposal for a more robust definition of religious freedom that incorporates the following concepts: institutional support of religious freedom for marginalized groups must be met with a commensurate expansion of responsibility to understand and respect beliefs different than one’s own and accommodation that generates a synergy between rights and responsibilities.
+
+[Link](https://academic.oup.com/jcs/article-abstract/65/3/331/7084868?redirectedFrom=fulltext&login=false)
+
+### Contagions, Congregations, and Constitutional Law: Reciprocity and Religious Freedom in the 1918 and 2020 Pandemics, 10 Oxford Journal of Law and Religion 359 (2021)
+
+This article undertakes a comparison of legal restrictions on religious gatherings in the USA during the 1918 Spanish Flu pandemic and the COVID-19 pandemic. After contextualizing each pandemic within its legal, political, and social culture, the analysis distills prevailing principles between the two health crises and their approach to religious liberty. Evidence suggests that courts in both periods relied on proportionality and equality to resolve disputes between government bans on worship services and conscientious objectors. However, the experience of multiple local governments in 1918 and other nations in 2020 models a better way. Instead of using proportionality or equality, these state officials relied on reciprocity between government and religious groups. Their approach tended to produce fewer bans, lower case counts, and greater trust during the pandemic and offers a useful precedent for current US lawmakers managing the religious freedom concerns of COVID-19.
+
+[Link](https://academic.oup.com/ojlr/article-abstract/10/3/359/6521351?redirectedFrom=fulltext&login=false)
+
+### Original Meaning and the Establishment Clause: A Corpus Linguistics Analysis, 61 Arizona Law Review 505 (2019), with Stephanie Barclay and Annika Boone
+
+Debates about the original meaning of the Establishment Clause are gaining increased attention in light of the Supreme Court’s recent decision in American Legion v. American Humanist Association and grant of certiorari in Espinoza v. Montana Department of Revenue. Scholars have long relied on a host of different methodologies to advance various theories about what the Establishment Clause means. But these methods, often relying on isolated historical examples or unrepresentative samples of language, provide limited insights about how language was understood by the greater population during the founding era. And some proponents of various historical interpretations declare that supporters of other theories have cherry-picked sources or misinterpreted them. Corpus linguistics provides another method of revealing important historical information about the Establishment Clause’s original meaning, but in a systematic and data-driven way.
+
+This Article provides the first corpus linguistics analysis of the Establishment Clause, using the tools of a corpus and a sufficiently large and representative body of data drawn from the relevant time period to provide additional information about probable founding-era meaning. This Article does not discount other methodologies or claim to definitively prove the meaning of the Establishment Clause. But it does add a piece to the Establishment Clause puzzle, providing information about the most salient characteristics of an established religion, or in other words, those characteristics implicated most often (or not at all) in founding-era mentions of established religion. This Article also provides a more rigorous and transparent method for investigating original public meaning than has been employed by other scholars. And by sifting through hundreds of results discussing establishment in a religious context, our Article is able to bring to light new historical sources that have been previously overlooked.
+
+This Article’s findings indicate that by far the most common characteristic discussed in the context of an establishment of religion involved legal or official designation of a specific church or faith. Beyond that, the most common characteristics of an establishment of religion involved: (1) government coercion of individuals involving prohibitions or mandates on religious practices enforced by legal penalties or government persecution of dissenters; (2) government interference with affairs of both established churches and non-established churches; (3) preferential public support of the established church (particularly in the form of direct taxes levied for the church); and (4) restrictions of civic or political participation to members of the established church. Our results are thus consistent with a modern constitutional theory that treats any one of these characteristics as a necessary condition for an Establishment Clause violation. On the other hand, our data did not reveal confirming evidence for a number of current theories regarding the original meaning of the Establishment Clause, including: (1) concerns about government display of religious symbols; (2) enactment of Sunday closing laws; (3) prayers or religious practices in public schools; (4) providing religious exemptions to religious believers in an even-handed way to protect conscience; or (5) providing preferential treatment to religion in general over nonreligion. Consistent with the Court’s recent American Legion decision, our findings indicate that when concerns about such symbols or imagery did arise, they arose in the context of government suppressing or destroying symbols of dissenting churches. Of relevance to the pending Espinoza case, our results only indicated that public support of religious organizations was concerning historically in certain limited circumstances, such as when provided preferentially only to an established church. When a concern did arise regarding religious schools, it involved a law that only allowed members of an established church in England to teach in schools, and that prevented parents from sending their children to a religious school that was consistent with the parents’ religious beliefs. Espinoza may provide an important vehicle for the Supreme Court to further revise much of its current jurisprudence that is out of step with a historical approach to the Establishment Clause.
+
+[Link](https://arizonalawreview.org/pdf/61-3/61arizlrev505.pdf)
