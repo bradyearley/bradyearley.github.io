@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+# Research
+
+My research examines institutions, law, and governance.
+
+## Working Papers
+
+### Paper Title
+
+Abstract.
+
+[PDF](/papers/paper1.pdf)
+
+---
+
+### Second Paper
+
+Abstract.
+
+[PDF](/papers/paper2.pdf)
