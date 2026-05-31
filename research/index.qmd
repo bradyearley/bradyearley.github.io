@@ -2,16 +2,24 @@ My research examines institutions, law, and evidence.
 
 ## Working Papers
 
-### Paper Title
+## Publications
 
-Abstract.
+### Necessity in Free Exercise, The University of Chicago Law Review (2025)
 
-[PDF](/papers/paper1.pdf)
+The Free Exercise Clause is a broadly worded constitutional prohibition against government intrusion on religious exercise. To construct limits, courts have consistently required government officials to demonstrate the necessity of state action burdening religion. Yet government officials regularly fail to produce evidence of necessity, leaving judges to intuit or assume whether necessity exists. This Comment offers a better way. Using a method known as difference-in-differences (DiD), lawmakers can draw upon the experience of existing state laws to enact laws justified with evidence. This Comment demonstrates the value of DiD with a current free exercise controversy involving the Old Order Amish and their objection to Ohio’s flashing light requirement for buggies. Applying DiD to this conflict reveals that Ohio’s buggy light law led to an estimated 23% reduction in buggy-related crashes compared to laws in Michigan and Kentucky—states with less restrictive buggy requirements. Beyond this case study, this Comment also discusses how DiD can help address recent Supreme Court conflicts over tax exemptions for religious organizations, LGBTQ-themed books in schools, and religious charter schools. These examples grapple with the problems and showcase the possibilities of a data-driven method to address necessity in free exercise.
+
+[Link](https://lawreview.uchicago.edu/print-archive/necessity-free-exercise)
 
 ---
 
-### Second Paper
+### Data-Driven Accommodations: Testing Religious Exemptions in Markets with Discrimination, Journal of Empirical Legal Studies (2025)
 
-Abstract.
+When conflicts between religious wedding vendors and same-sex couples arise, courts and legislatures face a dilemma. Existing empirical work such as audit studies and field experiments show that religious exemptions may lead to higher refusal rates for same-sex couples seeking wedding services. But judges are hesitant to use this empirical evidence to address these conflicts. Doing so appears to balance two harms: the same-sex couple’s harm from being refused service against a religious wedding vendor’s harm from being denied a religious accommodation. As a result, judges and lawmakers elude serious engagement with the empirical realities of these conflicts and make diverging assumptions about the underlying effects of religious exemptions on market access.
 
-[PDF](/papers/paper2.pdf)
+This article proposes a novel method for courts and legislatures to address these conflicts with market-based evidence. This approach involves two parts: a catchment area analysis and a non-deceptive survey. The catchment area analysis relies on data from more than 29 million cell phone users to model consumer behavior. The distance customers will travel to a baker or florist proxies for their willingness to pay and thus suggests substitutability with alternative vendors. The catchment analysis here looks at five states (Arkansas, New Mexico, Colorado, Oklahoma, Utah) with similarly rural population geographies but different mixes of religious freedom and nondiscrimination legal requirements.
+
+With this evidence of public accommodation markets, the second part of the method uses a non-deceptive survey to determine which bakers and florists have religious objections. Across the five states, 206 (85%) bakers and 660 (84%) florists agreed to take the survey which included two questions: (1) whether they made cakes or arranged flowers for weddings and (2) whether they would have any restrictions doing those things for a same-sex wedding due to a religious objection. After filtering out those who did not provide wedding services, six out of 149 bakeries (4%) and 45 out of 615 florists (7%) voiced objections with suggestive evidence that religious exemptions contributed to higher refusal rates in RFRA regimes (7%-18% for florists) compared to non-RFRA (3% for florists). Combined with the catchment area evidence, this analysis also shows which refusals would leave same-sex couples without a readily available alternative. On average, religious exemptions would produce material harm for 2% of consumers, but legal regimes that allow more localized lawmaking on these issues tend to see 1 to 2 percentage points less material harm.
+
+In sum, this approach shows how judges and lawmakers can use market-based evidence of material harm and thereby avoid balancing dignitary interests. Moreover, this study further indicates government—especially local governments—can accommodate religious objectors while administering public accommodation protections for same-sex couples and countering stigma.
+
+[Link](https://onlinelibrary.wiley.com/doi/10.1111/jels.70013)
