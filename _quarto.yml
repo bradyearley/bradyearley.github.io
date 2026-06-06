@@ -15,11 +15,11 @@ website:
       - href: research/index.qmd
         text: Research
 
+      - href: data_and_code/index.qmd
+        text: Data and Code
+
       - href: writing/index.qmd
         text: Writing
-
-      - href: data and code/index.qmd
-        text: Data and Code
 
       - href: cv.pdf
         text: CV
