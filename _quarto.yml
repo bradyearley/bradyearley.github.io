@@ -18,11 +18,8 @@ website:
       - href: writing/index.qmd
         text: Writing
 
-      - href: data/index.qmd
-        text: Data
-
-      - href: code/index.qmd
-        text: Code
+      - href: data and code/index.qmd
+        text: Data and Code
 
       - href: cv.pdf
         text: CV
