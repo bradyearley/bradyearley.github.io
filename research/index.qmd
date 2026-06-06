@@ -4,6 +4,12 @@ This page provides an overview of my academic writing including links to scholar
 
 ## Working Papers
 
+## Fostering Fairness (last revised June 2024)
+
+In recent years, foster care has become a locus of conflict between religious freedom and nondiscrimination. The Supreme Court instructed in Fulton v. Philadelphia that officials refusing to accommodate faith-based foster care providers must demonstrate how allowing religious accommodations would threaten the state’s interest in child welfare. Current evidence suggests that nondiscrimination requirements generally benefit foster children; however, there remains a lack of evidence as to whether accommodating faith-based providers and foster parents would put those goals at risk. This article seeks to address these empirical questions. Using a difference-in-differences and synthetic control design, the article evaluates how the closure of Catholic Charities in Massachusetts impacted adoptions of foster children. The analysis estimates that the decision to end services reduced foster care adoptions by as much as 33 percent on average. These findings illuminate how nondiscrimination laws can benefit from accommodating religious actors while raising questions about the role of empirical evidence in constitutional law.
+
+[Link](https://uchicago.app.box.com/s/kk5ib9rea12oghwjx48qlougziqidc1v)
+
 ## Publications
 
 ### Necessity in Free Exercise, The University of Chicago Law Review (2025)
