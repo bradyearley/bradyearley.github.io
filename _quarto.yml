@@ -15,8 +15,8 @@ website:
       - href: research/index.qmd
         text: Research
 
-      - href: data_and_code/index.qmd
-        text: Data and Code
+      - href: code/index.qmd
+        text: Code
 
       - href: writing/index.qmd
         text: Writing
