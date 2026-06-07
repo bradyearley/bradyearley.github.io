@@ -13,6 +13,24 @@ This Article provides a framework for judicial factfinding in constitutional cas
 
 [Link](https://uchicago.box.com/s/6mt9eby8v9pp9n4dnkwy5v8dh6bh95ac)
 
+### Expert Friends (last revised April 2025)
+In recent years, some observers have raised concerns that amicus experts are
+improperly influencing Supreme Court decisions. This study finds that amicus
+briefs are cited in nearly one quarter of the Supreme Court’s cases for their
+specialized, factual knowledge. But the fact that amicus expertise is presented and
+used does not dictate whether and how expert amici should be regulated. The
+recently approved amendments to Federal Rules of Appellate Procedure (FRAP) point to disclosure as an important check on
+amicus briefs in circuit courts of appeals, but some commentators urge rejecting
+these regulations as unnecessary. The empirical component of this dispute
+revolves around whether appellate courts are effectively filtering amicus evidence
+and using it accurately. A preliminary AI-assisted review of the Supreme Court’s
+citations to amici experts suggests that the Court is largely relying upon accurate
+claims from these amici (93% accuracy rate). If so, additional disclosure or other requirements on such
+briefs is not necessary to improve the accuracy of the Court’s reliance upon them.
+It may be that the Court is justified in retaining an unencumbered relationship
+with its expert friends.
+[Link](https://uchicago.box.com/s/lhfgmwefbxrd1qhjups6tvrby5llj77e)
+
 ### Fostering Fairness (last revised June 2024)
 
 In recent years, foster care has become a locus of conflict between religious freedom and nondiscrimination. The Supreme Court instructed in Fulton v. Philadelphia that officials refusing to accommodate faith-based foster care providers must demonstrate how allowing religious accommodations would threaten the state’s interest in child welfare. Current evidence suggests that nondiscrimination requirements generally benefit foster children; however, there remains a lack of evidence as to whether accommodating faith-based providers and foster parents would put those goals at risk. This article seeks to address these empirical questions. Using a difference-in-differences and synthetic control design, the article evaluates how the closure of Catholic Charities in Massachusetts impacted adoptions of foster children. The analysis estimates that the decision to end services reduced foster care adoptions by as much as 33 percent on average. These findings illuminate how nondiscrimination laws can benefit from accommodating religious actors while raising questions about the role of empirical evidence in constitutional law.
