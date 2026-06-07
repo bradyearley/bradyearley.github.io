@@ -6,6 +6,10 @@ title: "Brady Earley"
 
 ![](Earley_Brady.jpg){width=250}
 
+## Current Projects
+- Testing citizen perceptions of coercion in the context of religion in public schools
+- Studying the inherent empiricism of the Supreme Court's use of strict scrutiny
+
 ## Links
 
 - [GitHub](https://github.com/bradyearley)
