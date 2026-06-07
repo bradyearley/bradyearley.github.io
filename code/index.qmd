@@ -1,10 +1,24 @@
 Data and Code
 
+## Machine Learning and Legal Reasoning in the US Supreme Court
+This repository provides some early-stage work on machine learning and the Supreme Court. In particular, it operationalizes a model for legal reasoning in the Supreme Court by classifying Supreme Court opinions into factfinding, law-declaring, and law-applying functions.
+[Code](https://github.com/bradyearley/learning-the-law/tree/main)
+
+## State Constitutions and Amicus Briefs in State Supreme Courts
+This project analyzes the relationship between state constitutions and amicus briefs filed in state supreme court cases.
+[Data and Code](https://github.com/bradyearley/state-supreme-court-amici)
+
+## Synthetic Difference-in-Differences (SDID) Tutorial
+[Code](https://github.com/bradyearley/sdid-tutorial)
+
 ### Fostering Fairness
+Code for working paper "Fostering Fairness"
 [Code](https://github.com/bradyearley/Fostering-Fairness)
 
 ### Necessity in Free Exercise
+Replication data and code for publication "Necessity in Free Exercise"
 [Data and Code](https://github.com/bradyearley/Necessity-in-Free-Exercise)
 
 ### Data-Driven Accommodations
+Replication code for publication "Data-Driven Accommodations"
 [Code](https://github.com/bradyearley/data_driven_accommodations)
