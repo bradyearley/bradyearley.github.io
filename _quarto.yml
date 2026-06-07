@@ -31,6 +31,9 @@ website:
       - icon: linkedin
         href: https://linkedin.com/in/brady-earley/
 
+      - icon: envelope
+        href: mailto:bearley@uchicago.edu
+
 format:
   html:
     theme: cosmo
