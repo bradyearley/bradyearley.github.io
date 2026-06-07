@@ -6,11 +6,6 @@ title: "Brady Earley"
 
 ![](Earley_Brady.jpg){width=250}
 
-My work focuses on:
-
-- Constitutional Law
-- Empirical Legal Studies
-
 ## Links
 
 - [GitHub](https://github.com/bradyearley)
