@@ -1,3 +1,5 @@
+I am a JD/PhD Student in Law and Political Science at the [University of Chicago](https://political-science.uchicago.edu/directory/brady-earley) and a Fellow with [EmpiriCon](https://empiricon.huji.ac.il/people/brady-early-0). 
+
 This website is dedicated to my academic writing and research on empirical evidence in public law. I am interested in how different branches of government use empirical evidence and data in the creation of law and legal rules. My scholarship has also used empirical methods to study particular claims and assumptions in constitutional law, especially those dealing with law and religion. Thanks for visiting and please connect!
 
 
@@ -5,3 +7,5 @@ This website is dedicated to my academic writing and research on empirical evide
 
 - Constitutional Law
 - Empirical Methods
+- Evidence
+- Law and Religion
